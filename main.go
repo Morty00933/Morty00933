@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	var i = 500000001
+	var i = 540
 	var count = 0
 	for count < 5 {
 		var halfI = i / 2
