@@ -192,18 +192,6 @@ Desktop-приложение для **визуализации каркасны�
 
 ---
 
-## 📊 Немного статистики
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Morty00933&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morty00933&layout=compact&theme=transparent" alt="Top Langs" />
-</p>
-
----
-
 ## ✅ Чем я сейчас интересуюсь
 
 - Построение **end-to-end ML-платформ**: от ingestion до мониторинга.  
